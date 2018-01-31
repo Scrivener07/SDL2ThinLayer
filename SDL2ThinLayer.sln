@@ -1,7 +1,8 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
-# SharpDevelop 5.1
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SDL2ThinLayer", "SDL2ThinLayer.csproj", "{A2D3C656-1C64-4530-A8CD-E2B20F8CB641}"
 EndProject
 Global
@@ -14,5 +15,11 @@ Global
 		{A2D3C656-1C64-4530-A8CD-E2B20F8CB641}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2D3C656-1C64-4530-A8CD-E2B20F8CB641}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2D3C656-1C64-4530-A8CD-E2B20F8CB641}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8474566-2128-42F6-9FD7-796E9F8D0B48}
 	EndGlobalSection
 EndGlobal

@@ -70,5 +70,8 @@
     <None Include="app.config" />
     <None Include="Readme.md" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="SDL2.dll" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
